@@ -10,12 +10,7 @@ This Is A Solution To TThe [ Blog Preview Card Challenge On Frontend Mentor ].
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -33,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://your-solution-url.com)
+- Live Site URL: [This is the live site URL](https://your-live-site-url.com)
 
 ## My process
 
@@ -50,11 +45,3 @@ Users should be able to:
 - Website - [Ahmed Ehab](https://ahmed-portfolio-6504f.web.app/)
 - LinkedIn - [Ahmed Ehab](www.linkedin.com/in/ahmed-ehab-099118207)
 - Github - [@ahmedehab161]
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
