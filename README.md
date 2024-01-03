@@ -24,12 +24,17 @@ Users should be able to:
 
 ### Screenshot
 
+![Alt text](Screenshots/card-active.png)
+
+![Alt text](Screenshots/card-mobile-view.png)
+
+![Alt text](Screenshots/card-normal-display.png)
 
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: [This is the live site URL](https://your-live-site-url.com)
+- Solution URL: (https://github.com/ahmedehab161/blog-preview-card)
+- Live Site URL: [This is the live site URL](https://ahmedehab161.github.io/blog-preview-card/)
 
 ## My process
 
