@@ -48,5 +48,5 @@ Users should be able to:
 ## Author
 
 - Website - [Ahmed Ehab](https://ahmed-portfolio-6504f.web.app/)
-- LinkedIn - [Ahmed Ehab](www.linkedin.com/in/ahmed-ehab-099118207)
+- LinkedIn - [Ahmed Ehab](https://linkedin.com/in/ahmed-ehab-099118207)
 - Github - [@ahmedehab161]
